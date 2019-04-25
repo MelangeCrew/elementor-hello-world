@@ -1,11 +1,11 @@
 <?php
 /**
- * Plugin Name: Elementor Hello World
- * Description: Elementor sample plugin.
+ * Plugin Name: AH Elementor Hello World 
+ * Description: Elementor sample plugin. 
  * Plugin URI:  https://elementor.com/
  * Version:     1.2.0
- * Author:      Author Name
- * Author URI:  https://elementor.com/
+ * Author:      Artem Horbenko
+ * Author URI:  https://horbenko.com/
  * Text Domain: elementor-hello-world
  */
 
